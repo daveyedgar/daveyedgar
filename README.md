@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone, I'm David Bellerose, welcome to my Github 👋
 
 <!--
 **daveyedgar/daveyedgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
